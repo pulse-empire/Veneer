@@ -15,15 +15,15 @@
   <img src="https://img.shields.io/badge/Written%20In-Javascript-darkcyan?style=flat-square">
 </p>
 
-## VeneerX: A Free and Open Source Malware Project for Ethical Research (Bruteforce Analysis)
+## VeneerX: A Free and Open Source Malware Project for Ethical Research (Browser Veneer Analysis)
 
-**VeneerX** is a free and open-source malware project designed for ethical research and educational purposes. This project aims to provide researchers and security professionals with a powerful tool to understand and analyze the security level of web applications against preset Bruteforce techniques.
+**VeneerX** is a free and open-source malware project designed for ethical research and educational purposes. This project aims to provide researchers and security professionals with a powerful tool to understand and analyze the security level of web applications against adaptable techniques that are used capture and send stolen data attakcers.
 
 ## Guides
 <a href="https://github.com/pulse-empire/VeneerX/blob/main/InstallationGuide.md">
   <img src="https://img.shields.io/badge/HOW_TO_INSTALL-teal?style=for-the-badge&logo=website">
 </a>
-<a href="https://nemesisguy.onrender.com/blog/how_to_hack_anyone_using_spyware.html">
+<a href="https://github.com/pulse-empire/VeneerX/blob/main/UsageGuide.md">
   <img src="https://img.shields.io/badge/HOW_TO_USE-teal?style=for-the-badge&logo=website">
 </a>
 
@@ -33,12 +33,11 @@ It is crucial to emphasize that VeneerX is intended for ethical and educational 
 
 **Features:**
 
-* **Rate Limiting Bypass:** Techniques to detect and bypass rate limiting mechanisms, such as distributed attacks or request delays.
-* **Multiple Password Attack Mechanisms:** Advanced features for managing large password lists, including wordlists, rule-based generation, and mutation.
-* **Additional Browser Extension:** Packed with powerful extension with fine-grained control over the browser, to make seamless scraping.
+* **Detection of Login Page of Websites:** Techniques to detect login forms on active webpages.
+* **Addition of Event Listeners:** Advanced technique to detect and add event listener to send captured data to the hacker.
+* **Data Capturing:** Scripted in a way to capture input fields including emails, usernames, names, phone numbers, passwords, etc.
     <p align="center">
       <a href="https://nemesisguy.onrender.com/blog/how_to_hack_anyone_using_spyware.html">
-        <img src="https://img.shields.io/badge/Tutorial_Page-teal?style=for-the-badge&logo=website">
         <img src="https://img.shields.io/badge/YouTube_Video_Link-red?style=for-the-badge&logo=youtube">
       </a>
       <a href="https://nemesisguy.onrender.com/blog/how_to_hack_anyone_using_spyware.html">
@@ -50,8 +49,8 @@ It is crucial to emphasize that VeneerX is intended for ethical and educational 
 
 VeneerX can be used for various ethical research purposes, such as:
 
-* **Understanding Bruteforce Techniques:** Researchers can use VeneerX to analyze the vulnerabilities prone to bruteforce techniques and develop countermeasures.
-* **Security Training and Awareness:** Security professionals can use VeneerX to simulate real-world bruteforce attacks and educate users about the dangers of such threats.
+* **Understanding Disguise Techniques:** Researchers can use VeneerX to analyze the disguise techniques that malicious extensions employ to gain more trust for code injections.
+* **Security Training and Awareness:** Security professionals can use VeneerX to simulate real-world veneer attacks on website logins and educate users about the dangers of such threats.
 
 **Community and Collaboration:**
 
